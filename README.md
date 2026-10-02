@@ -1,14 +1,11 @@
-# obsidian_vault_template_for_graduate_student
+Write in the front
 
-### 写在前面
+It has been a while since I came into contact with obsidian, and I feel that this tool should be of great help to scientific research. Refined on the original obsidian_vault_template_for_researcher project.
 
-从接触到使用 obsidian 已经有一段时间了，感觉这个工具用好了应该对搞科研有较大帮助。在原来的[obsidian_vault_template_for_researcher](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher)项目上进行精简所得。
+Download and open the vault template library and view the manual
 
+Download obsidian installation software (v1.3.5): At present, all the software involved in this template library is open source, free and can be used across platforms.
 
-### 下载并打开vault模板库并查看说明书
+It is recommended to download this vault template through git clone, and then unzip it to a designated location, which can be a hard disk on the computer, a portable hard disk or even a USB flash drive, and then rename the vault. For example, I named the vault working, and then put it in the projects directory of the mobile hard disk: X:\projects\working.
 
-1. 下载obsidian安装软件（v1.3.5）：目前本模板库涉及的所有软件都是开源免费且可以跨平台使用的。
-
-2. 建议通过git clone下载此vault模板，之后解压到一个指定位置，可以是电脑上的硬盘，也可以是移动硬盘甚至U盘，然后重命名vault。比如我把 vault 命名为 working，然后放到了移动硬盘的 projects 目录下：`X:\projects\working`。
-
-3. 使用obsidian打开该模板库，注意关闭「安全模式」，关闭「自动更新」，进入到模板库中可查看 `03-Projects` 中的「使用obsidian搞科研.canvas」，里边有完整的关于研究生搞科研相关的主要工作流程操作说明。
+Use obsidian to open the template library, pay attention to turn off the "safe mode" and turn off "automatic update". When entering the template library, you can view "use obsidian for scientific research.canvas" in 03-Projects, which has complete main workflow instructions for graduate students to engage in scientific research.
